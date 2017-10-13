@@ -9,6 +9,7 @@ public class Main {
 		
 		System.out.println(firstCard.equals(secondCard));
 		System.out.println(thirdCard.equals(secondCard));
+		System.out.println("Conflict 1");
 	}
 
 }
